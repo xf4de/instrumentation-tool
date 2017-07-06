@@ -1,0 +1,2 @@
+Premain-Class: instr.InstrumentationAgent
+Boot-Class-Path: agentlibs/javassist.jar agentlibs/json-20160810.jar agentlibs/SerialKiller-0.4-all.jar
